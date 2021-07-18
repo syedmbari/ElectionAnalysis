@@ -11,6 +11,8 @@
 
 ![Election_Analysis](./Solving/analysis/Screen Shot 2021-07-18 at 1.49.21 PM.png)
 
+##### The txt.file is in solving/analysis folder of the repository!
+
 - ***How many votes were cast in this congressional election?***
   - *Total votes cast is 369,711.*
 

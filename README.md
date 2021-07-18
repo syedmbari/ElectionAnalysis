@@ -9,7 +9,8 @@
 # Election-Audit Results: 
 #### We will present the images and lists of conclusions we were able to derive from the project and how these results were calculated -
 
-![Election_Analysis](./Solving/analysis/Screen Shot 2021-07-18 at 1.49.21 PM.png)
+![Election_Analysis](./Solving/analysis/Election_Analysis.png)
+
 
 ##### The txt.file is in solving/analysis folder of the repository!
 
